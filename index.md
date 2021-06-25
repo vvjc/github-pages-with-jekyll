@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: vvjc's blog
 ---
 
 I'm glad you are here. I plan to talk about ...
